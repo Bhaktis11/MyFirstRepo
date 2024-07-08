@@ -1,3 +1,3 @@
 # MyFirstRepo
 My first repo
-Author - Bhakti Shanbhag
+Author - Bhakti V Shanbhag
